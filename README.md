@@ -27,3 +27,5 @@ week14 : 안드로이드 데이터베이스 SQLite
 week15 : 안드로이드 데이터베이스 ListView 적용
 
 FinalProject : 최종 프로젝트
+
+실행 이미지 : 프로젝트 실행 결과
