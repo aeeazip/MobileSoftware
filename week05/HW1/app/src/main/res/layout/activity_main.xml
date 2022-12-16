@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#CAC9C9"
+        android:onClick="onClick"
+        android:text="TOAST"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/btnSound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SOUND"
+        android:onClick="onClick"
+        android:textColor="#000000"
+        android:backgroundTint="#CAC9C9" />
+
+    <Button
+        android:id="@+id/btnVibration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VIBRATION"
+        android:onClick="onClick"
+        android:textColor="#000000"
+        android:backgroundTint="#CAC9C9" />
+</LinearLayout>
