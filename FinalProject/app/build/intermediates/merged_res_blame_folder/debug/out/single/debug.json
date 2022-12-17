@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_samyang.jpg.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\samyang.jpg"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\layout_introduce_developer.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\layout\\introduce_developer.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_developer.jpg.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xhdpi\\developer.jpg"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_adapter_view.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\layout\\custom_adapter_view.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\layout_search_activity.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\layout_add_activity.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\layout\\add_activity.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_hotchicken.jpg.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\hotchicken.jpg"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_shin.jpg.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\shin.jpg"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_raccoon.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\raccoon.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\layout_update_activity.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\layout\\update_activity.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_chapagetti.jpg.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\chapagetti.jpg"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\work\\Android\\FinalReport_01_20201019\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\work\\Android\\FinalReport_01_20201019\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]
